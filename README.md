@@ -13,7 +13,7 @@ To use this project, follow these steps:
     git clone <repository-url>
     ```
 2. **Install the required libraries:**
-   Make sure you have all the necessary dependencies installed. You can find the list of required libraries in the `train.ipynb` file. Install them using pip:
+   Make sure you have all the necessary dependencies installed. You can find the list of required libraries in the `requirements.txt` file. Install them using pip:
    ```sh
    pip install -r requirements.txt
    ```
@@ -27,7 +27,7 @@ The dataset used in this project is sourced from Kaggle, provided by BlastChar: 
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements, please open an issue or submit a pull request.
+Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
 
 ## Like This Project?
 
