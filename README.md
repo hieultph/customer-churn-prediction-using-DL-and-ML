@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on predicting customer churn using various machine learning models, including Artificial Neural Networks (ANN), Support Vector Machines (SVM), and Random Forest. It covers both data preprocessing (with CSV files) and model training.
+This project focuses on predicting customer churn using deep learning and machine learning models, including Artificial Neural Networks (ANN), Support Vector Machines (SVM), and Random Forest. It covers both data preprocessing (with CSV files) and model training.
 
 ## Getting Started
 
@@ -16,6 +16,7 @@ To use this project, follow these steps:
    Make sure you have all the necessary dependencies installed. You can find the list of required libraries in the `train.ipynb` file. Install them using pip:
    ```sh
    pip install -r requirements.txt
+   ```
    
 3. **Run the code:**
   Open the `train.ipynb` notebook and run the cells for the desired model (ANN, SVM, or Random Forest).
